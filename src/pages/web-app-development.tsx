@@ -4,10 +4,10 @@ export default function WebAppDevelopment() {
   return (
     <>
       <Head>
-        <title>IT & Technology Services | Debon Service</title>
+        <title>Web & App Development Services Singapore | Debonaire</title>
         <meta
           name="description"
-          content="Websites, software, mobile apps, UI/UX, analytics and integrations built to scale with your business."
+          content="Build responsive websites, e-commerce stores and mobile apps with web and app development services in Singapore. Explore custom digital solutions by Debonaire."
         />
       </Head>
       <WebAppDevelopmentPage />

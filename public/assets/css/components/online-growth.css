@@ -39,9 +39,9 @@
 
 .og-title {
   font-family: inherit;
-  font-size: clamp(32px, 4.2vw, 54px);
+  font-size: clamp(28px, 3.6vw, 50px);
   line-height: 1.08;
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: -.02em;
   color: var(--color-2);
   margin: 0 0 20px;
@@ -184,9 +184,10 @@
 }
 
 .og-heroTitle {
-  font-size: clamp(42px, 6.2vw, 88px);
+  font-size: clamp(42px, 6.2vw, 70px);
   line-height: 1.02;
   letter-spacing: -.035em;
+  font-weight: 700;
   margin-bottom: 26px;
 }
 

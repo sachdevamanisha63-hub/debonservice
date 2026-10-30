@@ -5,10 +5,10 @@ export default function OnlineGrowthPage() {
   return (
     <>
       <Head>
-        <title>Online Growth Services | Debon Service</title>
+        <title>Digital Marketing Services in Singapore | Debonaire</title>
         <meta
           name="description"
-          content="SEO, paid ads, social media, web design and email marketing to help your business get found online and win more customers."
+          content="Grow your business with digital marketing services in Singapore. Explore SEO, AI SEO, paid ads, social media, customer engagement and CRO solutions."
         />
       </Head>
       <OnlineGrowth />

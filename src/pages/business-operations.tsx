@@ -5,10 +5,10 @@ export default function BusinessOperationsPage() {
   return (
     <>
       <Head>
-        <title>Business Operations | Debonaire Capital Assets</title>
+        <title>Business Operations Services Singapore | Debonaire</title>
         <meta
           name="description"
-          content="Customer support, back-office, data operations and process automation handled by a dedicated team, so you can focus on growing your business."
+          content="Simplify business operations in Singapore with corporate secretarial, bookkeeping, accounting, registered address and business planning services from Debonaire."
         />
       </Head>
       <BusinessOperations />

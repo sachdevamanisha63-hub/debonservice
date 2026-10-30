@@ -5,10 +5,10 @@ export default function FlexibleWorkspaces() {
   return (
     <>
       <Head>
-        <title>Flexible Workspaces | Debonaire</title> 
+        <title>Flexible Workspaces & Office Rentals Singapore | Debonaire</title>
         <meta
           name="description"
-          content="Company registration, accounting, HR, admin and documentation support from one dependable team."
+          content="Find flexible workspaces in Singapore, including private offices, coworking desks, meeting rooms and commercial spaces. Explore rental options with Debonaire."
         />
       </Head>
       <CorporateSupport />

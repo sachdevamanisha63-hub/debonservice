@@ -160,9 +160,10 @@
 }
 
 .corporate-hero h1 {
-   font-size: clamp(42px, 6.6vw, 84px);
-   font-weight: 700;
+   font-size: clamp(42px, 6.6vw, 74px);
+   font-weight: 600;
    margin: 14px 0 20px;
+   word-spacing: -.20em;
 }
 
 .corporate-hero h1 span {

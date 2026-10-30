@@ -44,7 +44,7 @@
 }
 .contact-banner__title {
   margin: 0 0 20px;
-  font: 700 clamp(3rem, 7vw, 5.2rem) / 1.05 var(--font-family-display, "Space Grotesk", Arial, sans-serif);
+  font: 500 clamp(42px, 6.6vw, 74px) / 1.05 var(--font-family-display, "Space Grotesk", Arial, sans-serif);
   letter-spacing: -0.03em;
 }
 .contact-banner__text {
